@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "744147683454",
+    "project_id": "fir-sso-e49df",
+    "storage_bucket": "fir-sso-e49df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744147683454:android:c2b94ed0641d91783bf02f",
+        "android_client_info": {
+          "package_name": "com.firebase_sso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744147683454-j1g3t8ef81i45r9gv4105kdf68g92302.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase_sso",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "744147683454-p9hss7cilgvgpjtger6vabr84jeo6ks5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnXgO2rYR8EdD2iXVqVKlfZ4ReJ0aqviY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744147683454-p9hss7cilgvgpjtger6vabr84jeo6ks5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744147683454-tckc9s31h6q3lqo099fl6kmhnio15pbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.firebase-sso"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
